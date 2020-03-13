@@ -140,6 +140,11 @@ ctx.lists['user.vocabulary'] = {
     'lavender': 'lambda',
     'lander': 'lambda',
 
+
+    'microbium': 'microbiome',
+
+    "stat Dev lab": "Stat Div Lab", 
+
     'tax on': 'taxon'
 
 }
