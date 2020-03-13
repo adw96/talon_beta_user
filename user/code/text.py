@@ -99,7 +99,6 @@ ctx.lists['user.vocabulary'] = [
     'Perlman',
     'phyla',
     'phylum',
-    'phyloseq',
     'phylodivnet',
     'Poisson',
     'Prevotella',
@@ -143,7 +142,9 @@ ctx.lists['user.vocabulary'] = {
 
     'microbium': 'microbiome',
 
-    "stat Dev lab": "Stat Div Lab", 
+    "follow seek": 'phyloseq',
+
+    "stat Dev lab": "Stat Div Lab",
 
     'tax on': 'taxon'
 
